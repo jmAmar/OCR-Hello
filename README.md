@@ -1,2 +1,2 @@
 # OCR-Hello
-Hello v1
+Hello Java Code
